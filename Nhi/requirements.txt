@@ -1,0 +1,43 @@
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+
+# Association Rules
+mlxtend>=0.22.0
+
+# Clustering
+scipy>=1.10.0
+
+# Time Series
+statsmodels>=0.14.0
+prophet>=1.1.5
+
+# Model Evaluation
+yellowbrick>=1.5.0
+
+# Pipeline & Utilities
+pyyaml>=6.0
+joblib>=1.3.0
+tqdm>=4.65.0
+
+# Jupyter & Reporting
+jupyter>=1.0.0
+ipykernel>=6.25.0
+papermill>=2.4.0
+nbformat>=5.9.0
+nbconvert>=7.7.0
+
+# Web App (Bonus)
+streamlit>=1.28.0
+
+# Optional: for better visualization
+kaleido>=0.2.1
